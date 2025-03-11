@@ -25,3 +25,8 @@ replay_pid*
 tipos-variaveis/.vscode/settings.json
 sistem-smart-tv/.vscode/settings.json
 ContaBanco/.vscode/settings.json
+controle_candidatos/.vscode/settings.json
+desafio_controle_de_fluxo/.vscode/settings.json
+desafio_controle_de_fluxo/src/Contador.java
+desafio_controle_de_fluxo/src/ParametrosInvalidosException.java
+desafio_controle_de_fluxo/README.md
